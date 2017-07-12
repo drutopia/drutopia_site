@@ -7,9 +7,12 @@ dependencies:
   - block_content
   - ckeditor
   - contact
+  - drutopia_core
   - editor
+  - entity_reference_revisions
   - field
   - filter
+  - paragraphs
   - rdf
   - taxonomy
   - text
