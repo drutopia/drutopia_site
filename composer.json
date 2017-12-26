@@ -1,12 +1,12 @@
 {
-  "name": "drupal/drutopia_site",
-  "description": "Drutopia site is a base feature providing site components.",
-  "type": "drupal-module",
-  "license": "GPL-2.0+",
-  "homepage": "https://gitlab.com/drutopia/drutopia_site",
-  "minimum-stability": "dev",
-  "require": {
-    "drupal/admin_links_access_filter": "^1.0-alpha3",
-    "drupal/admin_toolbar": "^1.19"
-  }
+    "name": "drupal/drutopia_site",
+    "description": "Drutopia site is a base feature providing site components.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "homepage": "https://gitlab.com/drutopia/drutopia_site",
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/admin_links_access_filter": "^1.0-alpha3",
+        "drupal/admin_toolbar": "^1.19"
+    }
 }
