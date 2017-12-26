@@ -8,5 +8,12 @@
     "require": {
         "drupal/admin_links_access_filter": "^1.0-alpha3",
         "drupal/admin_toolbar": "^1.19"
+    },
+    "extra": {
+        "patches": {
+            "drupal/core": {
+                "Recursive rebuild caused by installing admin_toolbar_tools module": "https://www.drupal.org/files/issues/2930715-2-4.patch"
+            }
+        }
     }
 }
