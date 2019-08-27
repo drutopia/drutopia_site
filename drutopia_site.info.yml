@@ -7,6 +7,7 @@ dependencies:
   - admin_toolbar_tools
   - block_content
   - ckeditor
+  - ckeditorheight
   - config_actions
   - contact
   - drutopia_core
