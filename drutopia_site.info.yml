@@ -17,4 +17,5 @@ dependencies:
   - filter
   - paragraphs
   - text
+  - wysiwyg_linebreaks
 package: Drutopia
