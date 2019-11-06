@@ -2,5 +2,7 @@ path:
   - permissions
 plugin: add
 actions:
+  'administer main menu items':
+    value: 'administer main menu items'
   'use text format restricted_html':
     value: 'use text format restricted_html'
