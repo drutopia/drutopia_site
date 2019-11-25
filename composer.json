@@ -11,6 +11,7 @@
         "source": "https://gitlab.com/drutopia/drutopia_site/tree/8.x-1.x"
     },
     "require": {
+        "drupal/autosave_form": "^1.0",
         "drupal/admin_links_access_filter": "^1.0-alpha3",
         "drupal/admin_toolbar": "^2.0",
         "drupal/ckeditorheight": "^1.3",
