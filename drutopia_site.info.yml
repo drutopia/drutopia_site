@@ -12,6 +12,7 @@ dependencies:
   - config_actions
   - contact
   - drutopia_core
+  - ds
   - editor
   - entity_reference_revisions
   - field
